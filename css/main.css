@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    font-size: 32px;
+    font-size: 24px;
     
 }
 .chara{
@@ -45,15 +45,15 @@ button{
     z-index: 2;
 }
 small{
-    font-size: 25px;
+    font-size: 14px;
 }
 ab{
   font-style: normal;
   font-family: sans-serif;
 }
 h1{
-    font-size: 46px;
-    margin: 25px 5px 25px;
+    font-size: 23px;
+    margin: 15px 5px 15px;
     line-height: 15px;
 }
 .footer{
@@ -66,7 +66,7 @@ h1{
     z-index: 1;
 }
 .name{
-    font-size: 64px;
+    font-size: 32px;
     font-family: 'Sriracha', cursive;
 }
 .mini img{
